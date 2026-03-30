@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Dashboard.png" width="800" title="Dashboard Preview">
+  <img src="Dashboard.png" width="1100" title="Dashboard Preview">
 </p>
 
 Interactive Dashboard built with Power BI, featuring a custom UI designed in Figma.
