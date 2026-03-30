@@ -1,4 +1,9 @@
 
+<p align="center">
+  <img src="Dashboard.png" width="800" title="Dashboard Preview">
+</p>
+
+Interactive Dashboard built with Power BI, featuring a custom UI designed in Figma.
 
 Spearheaded an end-to-end analysis of US pandemic data, winning a team-based competition by delivering comprehensive insights into infection and mortality trends across 50+ states.
 
