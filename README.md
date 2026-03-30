@@ -1,6 +1,5 @@
 Interactive Dashboard built with Power BI, featuring a custom UI designed in Figma.
 
-![Project Dashboard Preview](Dashboard.png)
 
 <p align="center">
   <img src="Dashboard.png" width="1100" title="Dashboard Preview">
